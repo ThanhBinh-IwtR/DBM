@@ -1,0 +1,11 @@
+TransactionID,Items1,Items2,Items3,Items4
+1,Apple, Banana, Cereal
+2,Apple, Banana, Milk
+3,Apple, Banana, Cereal, Milk
+4,Apple, Milk
+5,Apple, Cereal
+6,Banana, Cereal
+7,Banana, Milk
+8,Apple, Banana
+9,Apple, Banana, Cereal, Milk
+10,Apple, Banana, Cereal
